@@ -20,7 +20,7 @@ If you win, you will be celebrated 🎉
 </ol>
 
 ### Demo:
-![image](https://res.cloudinary.com/dsfdj3laa/image/upload/v1653966906/myfolder/tenzies.gif)
+![Tenzies Demo](https://res.cloudinary.com/dsfdj3laa/image/upload/v1653966906/myfolder/tenzies.gif)
 
 ### Acknowledgement
 
